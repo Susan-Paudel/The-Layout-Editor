@@ -8,7 +8,7 @@
 **The above screenshot shows the horizontal orientation of app in mobile**
 
 ### layout for horizontal orientation(Land)
-![horizonatl Land view](ScreenshotAndRecord/horizontal(Land).png)
+![horizontal Land view](ScreenshotAndRecord/horizontal(Land).png)
 
 **The above screenshot shows the horizontal orientation in land of app in mobile**
 
@@ -21,3 +21,12 @@
 ![tablet_landscape](ScreenshotAndRecord/tablet(Landscape).png)
 
 **The above screenshot shows the landscape orientation of app in tablet**
+
+## Record Of Application
+![Record](ScreenshotAndRecord/Record.gif)
+
+**The video above shows the UI of the final app created for the task_1 section of lab 2. The UI 
+consists of three different views; 2 button views and 1 text view. The 'Toast' button is used to 
+display the toast message while the 'Count' button is used to increase the count value when pressed. 
+Similarly, the text view at the center is used to display the current count value.lastly, for tablet
+screenshot is provided.**
