@@ -64,4 +64,6 @@ was before.**
 
 ![Record](ScreenshotAndRecord/Record.gif)
 
-**The above record gif file show the working functionality of the application**
+**The above record gif file show the working functionality of the application.The UI consists of 3 buttons and a
+text view. The 'Toast' button displays a toast message and the 'Count' button increases the counter value in the text view.
+Similarly, the 'Zero' button sets the counter value to 0 when pressed.**
